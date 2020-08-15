@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162348722709",
+    "firebase_url": "https://flutter-gram-273c1.firebaseio.com",
+    "project_id": "flutter-gram-273c1",
+    "storage_bucket": "flutter-gram-273c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162348722709:android:4b45acbabe2472794fbc1c",
+        "android_client_info": {
+          "package_name": "com.nikhil.fluttergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162348722709-7k83qsr65duqdvseqrlkn8jm3jn1b04h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhil.fluttergram",
+            "certificate_hash": "715fda4bbefe2b943a3bfdb87e30c669886686c0"
+          }
+        },
+        {
+          "client_id": "162348722709-0f1qmf0gvo97pcccq6asj26l6i804rjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrH1DfSUZnvMOD0AYixZYcEVABmNWIc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162348722709-0f1qmf0gvo97pcccq6asj26l6i804rjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
